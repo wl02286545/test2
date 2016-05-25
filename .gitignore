@@ -1,0 +1,22 @@
+
+<?php
+
+<head>
+  <title>RubyGettingStarted</title>
+  <link data-turbolinks-track="true" href="/assets/application-9c38d010c5f7a158e7966b7934e43f5e.css" media="all" rel="stylesheet" />
+  <script data-turbolinks-track="true" src="/assets/application-16da03a5233f3ec1a05955a4a83d2720.js"></script>
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="EWnlL4QygISqcaCJoxzExoqBuXs/Rk9lwJYVCMWOVY0=" name="csrf-token" />
+</head>
+<body>
+
+<h1>Getting Started with Rubyㄏㄏ</h1>
+
+<p>
+  Welcome  yoyoyoyoyoyyoyooyooyoyoyoyo終於?!
+</p>
+
+
+
+</body>
+?>
